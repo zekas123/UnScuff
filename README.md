@@ -48,3 +48,6 @@ Or run from Visual Studio
 Open UnScuff.sln
 
 Press F5
+
+**To delete a task:**  
+Open the corresponding `.txt` file and remove the line manually. Then restart the app.
