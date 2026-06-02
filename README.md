@@ -12,8 +12,6 @@ Auto-start – UnScuff launches with your system. You can't forget to open it.
 
 Hard to close – Closing the app isn't easy. It will keep reminding you to get back to work.
 
-Screenshots
-(add your screenshot here)
 
 How to use
 Add a task.
